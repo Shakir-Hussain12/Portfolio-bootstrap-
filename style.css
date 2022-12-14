@@ -1,0 +1,10 @@
+.contact-width {
+  max-width: 30%;
+}
+
+@media only screen and (max-width: 900px) {
+  .contact-width {
+    max-width: 60%;
+    min-width: 50%;
+  }
+}
